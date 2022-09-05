@@ -6,13 +6,13 @@ Para esto me he apoyado de otros recursos de libre acceso tales como el escudo d
 
 # Demostración
 
-Hay una versión para entornos oscuros y otra para entornos claros, así como una edición a color y otra monocromática.
+Hay una versión para entornos oscuros y otra para entornos claros, así como una edición a color y otra monocromática de alto contraste.
 
 ## Facultad de Ciencias
 
 La tipografía empleada en el logotipo de la facultad es [Montserrat](https://fonts.google.com/specimen/Montserrat), por Julieta Ulanovsky.
 
-### Banner a color dinámico
+### Imagotipo a color dinámico
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahexo/fciencias-banner/main/fciencias/banner-fciencias-color-light.svg">
@@ -20,7 +20,7 @@ La tipografía empleada en el logotipo de la facultad es [Montserrat](https://fo
   <img alt="Banner-fciencias" src="https://raw.githubusercontent.com/Ahexo/fciencias-banner/main/fciencias/banner-fciencias-color-light.svg">
 </picture>
 
-### Banner de alto contraste dinámico
+### Imagotipo de alto contraste dinámico
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahexo/fciencias-banner/main/fciencias/banner-fciencias-hicontrast-light.svg">
@@ -33,7 +33,7 @@ La tipografía empleada en el logotipo de la facultad es [Montserrat](https://fo
 
 La tipografía empleada en el logotipo de la carrera es [Open Sans](https://fonts.google.com/specimen/Open+Sans), por Steve Matteson.
 
-### Banner a color dinámico
+### Imagotipo a color dinámico
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahexo/fciencias-banner/main/licenciaturacc/banner-licenciaturacc-color-light.svg">
@@ -41,13 +41,15 @@ La tipografía empleada en el logotipo de la carrera es [Open Sans](https://font
   <img alt="Banner-fciencias" src="https://raw.githubusercontent.com/Ahexo/fciencias-banner/main/licenciaturacc/banner-licenciaturacc-color-light.svg">
 </picture>
 
-### Banner de alto contraste dinámico 
+### Imagotipo de alto contraste dinámico 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahexo/fciencias-banner/main/licenciaturacc/banner-licenciaturacc-hicontrast-light.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahexo/fciencias-banner/main/licenciaturacc/banner-licenciaturacc-hicontrast-dark.svg">
   <img alt="Banner-fciencias" src="https://raw.githubusercontent.com/Ahexo/fciencias-banner/main/licenciaturacc/banner-licenciaturacc-hicontrast-light.svg">
 </picture>
+
+##
 
 # Cómo usar
 
